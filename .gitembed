@@ -1,0 +1,4 @@
+[embed "embedded-library"]
+	url = git@github.com:gahooa/git-embed-example-embedded.git
+	path = embedded-library
+	head = bbd1348c650812c68e9cc5f37bb9a40d3fda5646
